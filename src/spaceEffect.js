@@ -4,7 +4,7 @@ let stars = [];
 let factor = 113;
 let speedSliders;
 let width = 2000;
-let height = 1500;
+let height = 2950;
 
 function random(min, max) {
   return Math.random() * (max - min) + min;
